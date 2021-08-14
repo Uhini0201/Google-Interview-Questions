@@ -19,7 +19,7 @@ If there are multiple such windows, return the first occurring minimum window ( 
 */
 '''
 
-<h1>CODE</h1>
+CODE
 
 string Solution::minWindow(string A, string B) {
 
